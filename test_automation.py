@@ -13,7 +13,7 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 TESTS_DIR = ROOT_DIR / "test_automation"
 
 DEFAULT_EXCEL_CANDIDATES = [
-    "/Users/sahanvaas/Documents/Y3S1/ITPM/Assignment_01/test_automation/Assignment 1 - Test cases.xlsx",
+    "/Users/sahanvaas/Documents/Y3S1/ITPM/Assignment_01?Assignment 1 - Test cases.xlsx",
     str(TESTS_DIR / "Assignment 1 - Test cases.xlsx"),
 ]
 
